@@ -21,4 +21,4 @@ Please get in touch if you have any questions, or if you find a bug in the code.
 
 ### References
 
-J. Wessel, C. J. R. Murphy-Barltrop & E. S. Simpson (2025). A comparison of generative deep learning methods for multivariate angular simulation. arXiv preprint.
+J. Wessel, C. J. R. Murphy-Barltrop & E. S. Simpson (2025). *A comparison of generative deep learning methods for multivariate angular simulation*. arXiv preprint.
