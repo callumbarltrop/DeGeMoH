@@ -1,5 +1,5 @@
 # DeGeMoH - Deep Generative Modelling on Hyperspheres
-## Code to support the paper "A comparison of generative deep learning methods for multivariate angular simulation"
+## Code to support the paper "Generative machine learning for multivariate angular simulation"
 
 DeGeMoH - **De**ep **Ge**nerative **Mo**delling on **H**yperspheres
 
@@ -21,4 +21,4 @@ Please get in touch if you have any questions, or if you find a bug in the code.
 
 ### References
 
-J. Wessel, C. J. R. Murphy-Barltrop & E. S. Simpson (2025). *A comparison of generative deep learning methods for multivariate angular simulation*. arXiv preprint.
+Wessel, J. B., Murphy-Barltrop, C. J., & Simpson, E. S. (2025). Generative machine learning for multivariate angular simulation. Extremes, 1-49.
